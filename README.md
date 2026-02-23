@@ -50,6 +50,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 | `npm run build` | Build for production |
 | `npm start` | Run production build locally |
 | `npm run lint` | Run ESLint |
+| `npm run clean` | Remove `.next` build cache (use if you see ENOENT/build errors) |
 
 ### Production Build
 
